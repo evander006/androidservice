@@ -1,9 +1,36 @@
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=evander006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=evander006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=evander006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Android Music App 🎶
 
----
-[![](https://visitcount.itsvg.in/api?id=evander006&icon=0&color=0)](https://visitcount.itsvg.in)
+Welcome to my Android Music App repository! This project is a hands-on exploration of Android services, including **Foreground** and **Bound Services**, as part of my journey to deepen my understanding of Android development.
+
+## Key Features
+- **Music Playback**: A simple music player that supports playing 5 preloaded songs.
+- **Notification Integration**: The app displays a persistent notification when music is playing, allowing users to control playback (play, pause, stop) directly from the notification panel.
+- **Service Implementation**:
+  - **Foreground Service**: Ensures music continues playing even when the app is in the background.
+  - **Bound Service**: Manages communication between the UI and the music playback logic.
+
+## What I Learned
+- How to create and manage different types of services in Android.
+- Implementing media playback using `MediaPlayer`.
+- Using `NotificationManager` to create interactive notifications.
+- Handling lifecycle events for services and ensuring smooth user experience.
+
+## 💻 Tech Stack
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
+![MediaPlayer](https://img.shields.io/badge/MediaPlayer-FF0000?style=for-the-badge&logo=android&logoColor=white)  
+![NotificationCompat](https://img.shields.io/badge/NotificationCompat-0088CC?style=for-the-badge&logo=android&logoColor=white)  
+![Foreground Service](https://img.shields.io/badge/Foreground%20Service-00C853?style=for-the-badge&logo=android&logoColor=white)  
+![Bound Service](https://img.shields.io/badge/Bound%20Service-6200EA?style=for-the-badge&logo=android&logoColor=white)  
+![Activity Component](https://img.shields.io/badge/Activity%20Component-FF6D00?style=for-the-badge&logo=android&logoColor=white)  
+
+## How to Use
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Run the app on an Android device or emulator.
+4. Explore the music player, play songs, and interact with the notification controls.
+
+This project is a great example of how to integrate services into an Android app to create a seamless user experience. Feel free to explore, contribute, or use it as a reference for your own projects!
+
+**Tags**: Android, Kotlin, Services, Foreground Service, Bound Service, Notification, Music Player  
